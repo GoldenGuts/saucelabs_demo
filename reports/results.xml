@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="rspec" tests="1" skipped="0" failures="0" errors="0" time="8.299958" timestamp="2024-02-20T23:35:28+05:30" hostname="DQJyotirmay-MacBook-Pro.local">
+<properties>
+<property name="seed" value="53746"/>
+</properties>
+<testcase classname="tests.demo_test" name="Product Cart Workflow adds 3 products, validates them, removes 1, and validates removal" file="./tests/demo_test.rb" time="7.157344"></testcase>
+</testsuite>
