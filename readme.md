@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a web automation suite developed using Watir and the Page-Object gem in Ruby. It's designed to automate user interactions on the [Sauce Labs Demo Site](https://www.saucedemo.com/), covering end-to-end scenarios like user login, product selection, cart management, and checkout process.
+This project is a web automation suite developed using Watir and the Page-Object gem in Ruby. It's designed to automate user interactions on the [Sauce Labs Demo Site](https://www.saucedemo.com/), covering end-to-end scenarios like user login, product selection, cart management.
 
 ## Features
 
